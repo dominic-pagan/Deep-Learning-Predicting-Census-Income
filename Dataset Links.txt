@@ -1,0 +1,2 @@
+https://s3.amazonaws.com/dspython.dezyre.com/notebook_files/24-04-18-11-31-04/adult.data
+https://s3.amazonaws.com/dspython.dezyre.com/notebook_files/24-04-18-11-31-04/adult.test
