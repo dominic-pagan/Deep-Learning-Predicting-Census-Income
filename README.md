@@ -29,3 +29,6 @@ http://www.census.gov/ftp/pub/DES/www/welcome.html
 - Data Science 
 - R 
 - Hyperparameter Optimization 
+- Classification
+- Clustering
+- Regression 
